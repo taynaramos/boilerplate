@@ -11,3 +11,6 @@ Boilerplate criado com base no curso React Avançado do Willian Justen.
 - EsLint
 - Prettier
 - Husky
+
+Para criar um projeto com base nesse boilerplate, use:
+`yarn create next-app -e https://github.com/taynaramos/boilerplate`
