@@ -1,7 +1,9 @@
-# react-avancado
+# Boilerplate
+
 Boilerplate criado com base no curso React Avançado do Willian Justen.
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
+
 - NextJs
 - Typescript
 - Jest
@@ -11,6 +13,8 @@ Boilerplate criado com base no curso React Avançado do Willian Justen.
 - EsLint
 - Prettier
 - Husky
+
+## Comando para criar projeto
 
 Para criar um projeto com base nesse boilerplate, use:
 ```
