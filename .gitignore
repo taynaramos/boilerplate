@@ -37,3 +37,15 @@ next-env.d.ts
 # sw stuff
 public/sw.js
 public/workbox-*.js
+
+# storybook
+storybook-static
+
+#yarn 
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
